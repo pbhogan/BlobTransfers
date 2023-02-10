@@ -1,0 +1,18 @@
+{
+  "name": "com.gallantgames.netcode.blobtransfer",
+  "displayName": "BLOB Transfers (for Entities Netcode)",
+  "version": "1.0.0",
+  "unity": "2022.2",
+  "unityRelease": "0f1",
+  "description": "An experimental workaround for sending BLOBs using RPCs.",
+  "dependencies": {
+    "com.unity.entities": "1.0.0-pre.15",
+    "com.unity.netcode": "1.0.0-pre.15",
+    "com.unity.logging": "1.0.0-pre.11"
+  },
+  "author": {
+    "name": "Patrick Hogan",
+    "email": "patrick@gallantgames.com",
+    "url": "https://www.gallantgames.com"
+  }
+}
